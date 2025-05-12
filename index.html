@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>RevisaFatec</title>
+  <link rel="stylesheet" href="styles/main.css" />
+
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!--ICONES-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css" integrity="sha512-HXXR0l2yMwHDrDyxJbrMD9eLvPe3z3qL3PPeozNTsiHJEENxx8DH2CxmV05iwG0dwoz5n4gQZQyYLUNt1Wdgfg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+  <div id="app">
+    
+    <!-- Tela de nome -->
+    <div id="name-screen">
+      <div class="img-logo">
+        <img src="./assets/img/logo.png" alt="Logotipo da RevisaFatec" width="100%">
+      </div>
+      <h1>Bem-vindo, Fatecano!</h1>
+      <div class="input-wrapper">
+        <input class="input-name" type="text" id="username" placeholder="Digite seu nome..." />
+      </div>
+      <button class="btn" 
+        style="background-color: #007bff; box-shadow: 0 4px 0 #0056b3;" 
+        onclick="saveName()">Entrar</button>
+        <footer id="name-screen-footer">
+          <p>&copy; 2025 <a href="https://github.com/Kellinton" target="_blank">Kellinton</a></p>
+        </footer>
+    </div>
+
+    <!-- Tela de seleção de imagem de perfil -->
+    <div id="image-selector" class="hidden">
+      <h3>Escolha sua imagem de perfil</h3>
+      <div class="image-options">
+        <img src="./assets/img/luffy.png" alt="luffy" onclick="selectProfileImage('luffy.png')">
+        <img src="./assets/img/nami.png" alt="nami" onclick="selectProfileImage('nami.png')">
+        <img src="./assets/img/zoro.png" alt="zoro" onclick="selectProfileImage('zoro.png')">
+        <img src="./assets/img/usopp.png" alt="usopp" onclick="selectProfileImage('usopp.png')">
+        <img src="./assets/img/robin.png" alt="robin" onclick="selectProfileImage('robin.png')">
+        <img src="./assets/img/sanji.png" alt="sanji" onclick="selectProfileImage('sanji.png')">
+      </div>
+      <button class="btn" onclick="closeImageSelector()"
+        style="background-color: #ff0000; box-shadow: 0 4px 0 #b30000; width: 20%;" >Cancelar</button>
+    </div>
+    
+    <!-- Tela de menu -->
+    <div id="menu" class="hidden">
+      <header>
+          <img src="./assets/img/user.png" alt="Imagem de perfil" id="profile-pic" />
+        <h2><span id="user-display"></span></h2>
+      </header>
+      <h1>Eu quero praticar...</h1>
+      <div class="options-subjects">
+        <button class="locked" onclick="loadQuiz('administracao-geral')"><i class="ri-git-repository-private-line locked-icon"></i> Administração Geral</button>
+        <button class="locked" onclick="loadQuiz('matematica-discreta')"><i class="ri-git-repository-private-line locked-icon"></i> Matemática Discreta</button>
+        <button class="locked" onclick="loadQuiz('informatica-negocios')"><i class="ri-git-repository-private-line locked-icon"></i> Informática e Negócios</button>
+        <button class="locked" onclick="loadQuiz('comunicacao-expressao')"><i class="ri-git-repository-private-line locked-icon"></i> Comunicação e Expressão</button>
+        <button class="locked" onclick="loadQuiz('espanhol')"><i class="ri-git-repository-private-line locked-icon"></i> Espanhol I</button>
+        <button onclick="loadQuiz('ingles')">Inglês I</button>
+        <button class="locked" onclick="loadQuiz('sociedade-tecnologia-inovacao')"><i class="ri-git-repository-private-line locked-icon"></i> Sociedade, Tecnologia e Inovação</button>
+        <button class="locked" onclick="loadQuiz('metodologia-pesquisa')"><i class="ri-git-repository-private-line locked-icon"></i> Metodologia de Pesquisa Científico-Tecnológica</button>
+      </div>
+      <button class="btn" 
+        style="background-color: #007bff; box-shadow: 0 4px 0 #0056b3;" 
+        onclick="showHistory()">Ver Histórico</button>
+    </div>
+
+    <!-- Tela de quiz -->
+    <div id="quiz" class="hidden">
+      <div id="progress-bar"></div>
+      <div id="question-container">
+        <h2 id="question-text"></h2>
+        <div id="feedback-gif"></div>
+        <audio id="answer-audio" autoplay></audio>
+        <div id="options"></div>
+      </div>
+
+      <button id="next-btn" class="hidden btn" 
+        style="background: #58cc02; box-shadow: 0 4px 0 #58a700;" 
+        onclick="nextQuestion()">CONTINUE</button>
+    </div>
+
+    <!-- Tela final do quiz -->
+    <div id="final-screen" class="hidden">
+        <h2>Prática Conluída!</h2>
+        <p>Você acertou:</p>
+        <div id="final-score">0</div>
+        <div id="final-gif"></div>
+        <audio id="final-audio" autoplay></audio>
+        <button class="btn" 
+          style="background: #58cc02; box-shadow: 0 4px 0 #58a700;"
+          onclick="backToMenu()">Voltar ao menu</button>
+    </div>
+      
+
+    <!-- Modal de histórico -->
+    <div id="history-modal" class="hidden">
+      <div id="history-content"></div>
+      <button class="btn" 
+        style="background-color: #ff0000; box-shadow: 0 4px 0 #b30000; width: 20%;" 
+        onclick="closeHistory()">Fechar</button>
+    </div>
+
+  </div>
+
+  <script src="./scripts/app.js" defer></script>
+  <!-- Sweet Alert -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.12.6/dist/sweetalert2.all.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10.12.6/dist/sweetalert2.min.css">
+</body>
+</html>

@@ -1,0 +1,932 @@
+[
+  {
+    "pergunta": "What type of pronoun is 'your'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: It ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: We ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What is the numeral 'ten' in digits?",
+    "alternativas": [
+      "0",
+      "20",
+      "10",
+      "11"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What is the numeral 'sixty' in digits?",
+    "alternativas": [
+      "50",
+      "70",
+      "60",
+      "61"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): He ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "What is the numeral 'twenty' in digits?",
+    "alternativas": [
+      "20",
+      "21",
+      "10",
+      "30"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What is the numeral 'eighty' in digits?",
+    "alternativas": [
+      "81",
+      "70",
+      "80",
+      "90"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: It ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "What is the numeral 'fifty' in digits?",
+    "alternativas": [
+      "40",
+      "60",
+      "51",
+      "50"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Complete (negative form): It ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): You ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: We ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: We ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What type of pronoun is 'my'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete (negative form): They ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: We ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What type of pronoun is 'ours'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Complete: He ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): They ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What type of pronoun is 'mine'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Complete (negative form): You ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: We ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: She ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "What type of pronoun is 'our'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What is the numeral 'seventy' in digits?",
+    "alternativas": [
+      "71",
+      "70",
+      "80",
+      "60"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "What type of pronoun is 'yours'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: She ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): They ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: It ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: They ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: They ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete (negative form): She ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "What type of pronoun is 'theirs'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Complete: It ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): We ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete (negative form): He ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): I ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete (negative form): I ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: She ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: They ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: He ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "What type of pronoun is 'his'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: She ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): You ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: You ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What type of pronoun is 'their'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: They ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: He ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: It ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: You ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete (negative form): She ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: You ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What is the numeral 'forty' in digits?",
+    "alternativas": [
+      "30",
+      "40",
+      "41",
+      "50"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "What is the numeral 'one hundred' in digits?",
+    "alternativas": [
+      "110",
+      "101",
+      "90",
+      "100"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Complete (negative form): We ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: They ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: You ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "What type of pronoun is 'hers'?",
+    "alternativas": [
+      "possessive adjective",
+      "possessive pronoun",
+      "personal pronoun",
+      "reflexive pronoun"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Complete: I ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Complete: She ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: We ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: It ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: I ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "What is the numeral 'ninety' in digits?",
+    "alternativas": [
+      "80",
+      "90",
+      "100",
+      "91"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Complete (negative form): He ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "What is the numeral 'thirty' in digits?",
+    "alternativas": [
+      "30",
+      "20",
+      "31",
+      "40"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete (negative form): You ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: He ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: I ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: You ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: I ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Complete (negative form): I ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: It ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: It ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: They ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Complete: It ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: She ____ a student.",
+    "alternativas": [
+      "are",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): He ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete (negative form): It ____ not like pizza.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Complete: We ____ play football.",
+    "alternativas": [
+      "do",
+      "are",
+      "does",
+      "am",
+      "is"
+    ],
+    "correta": 0
+  }
+]
