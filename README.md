@@ -1,11 +1,16 @@
 # Revisafatec 🦅
-<p>
-    <img width="442" height="630" src="/docs/to_readme/image1.png">
-    <img width="807" height="630" src="/docs/to_readme/image2.png">
-    <img width="426" height="630" src="/docs/to_readme/image3.png">
-</p>
-<p>
-    <img width="543" height="630" src="/docs/to_readme/image4.png">
-    <img width="564" height="630" src="/docs/to_readme/image5.png">
-    <img width="337" height="630" src="/docs/to_readme/image6.png">
-</p>
+<table>
+  <tr>
+    <td><img src="/docs/to_readme/image1.png" width="100%"></td>
+    <td><img src="/docs/to_readme/image2.png" width="100%"></td>
+    <td><img src="/docs/to_readme/image3.png" width="100%"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="/docs/to_readme/image4.png" width="100%"></td>
+    <td><img src="/docs/to_readme/image5.png" width="100%"></td>
+    <td><img src="/docs/to_readme/image6.png" width="100%"></td>
+  </tr>
+</table>
